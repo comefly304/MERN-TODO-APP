@@ -1,0 +1,43 @@
+.App{
+  display: flex;
+  flex-direction: column;
+   padding: 20px 40px;
+  text-align: center;
+  
+}
+.input-text{
+  padding: 5px 12px;
+}
+.p-tag{
+  color: rgb(23, 185, 23);
+}
+.delete-btn{
+  padding: 5px 10px;
+  background: red;
+  border:none;
+  cursor: pointer;
+  border-radius: 5px;
+  color: rgb(107, 98, 98);
+}
+.update-btn{
+  background: yellow;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 5px;
+  color: rgb(133, 119, 119);
+}
+.Add-btn{
+  background: gold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  color: rgb(121, 113, 113);
+  margin-left: 5px;
+}
+input{
+  border-radius: 2px;
+  padding: 4px 10px;
+  border: 0.1px solid black;
+}
